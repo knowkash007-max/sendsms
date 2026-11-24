@@ -1,5 +1,5 @@
 
-# Ex.No:6 Design an android application Send SMS using Intent.
+# Ex.No:3 Design an android application Send SMS using Intent.
 Developed by: Knowkash G
 Registeration Number : 212225230142
 
